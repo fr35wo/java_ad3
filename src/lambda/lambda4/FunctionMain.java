@@ -22,6 +22,6 @@ public class FunctionMain {
                 System.out.println(s);
             }
         };
-
+ consumer.accept("hello");
     }
 }
